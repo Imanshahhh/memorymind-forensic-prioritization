@@ -16,6 +16,13 @@ The results show that `malware.exe` received the highest priority score of 0.935
 
 The prototype demonstrates how statistical scoring and relational evidence correlation can be used to prioritize memory forensic artifacts. Although simulated data is used, the approach can later be extended using real memory dumps and forensic tools such as Volatility 3.
 
+# Screenshot 
+   ![App Screenshot](docs/screenshots/Python_Output.png)
+
+   ![App Screenshot](docs/screenshots/Similarity_Chart.png)
+
+   ![App Screenshot](docs/screenshots/Recognition_Result.csv.png)
+
 ## How to Run
 
 Install the required libraries:
