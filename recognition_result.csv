@@ -1,0 +1,5 @@
+Artifact,Evidence_Score,Relational_Correlation,Priority_Score
+malware.exe,0.95,0.9,0.9349999999999999
+unknown.exe,0.8,0.75,0.7849999999999999
+svchost.exe,0.25,0.3,0.265
+explorer.exe,0.1,0.2,0.13
